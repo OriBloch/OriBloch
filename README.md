@@ -32,8 +32,9 @@ Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Busin
 - **Description:** Precision routing for maximum safety, leveraging advanced algorithms to determine the most secure path for users
 - **Technologies Used:** Written in Python; libraries used: googlemaps, folium, geopy, and more
 - **Role:** Full-stack development - personal project by me
-- **Link:** [Link to the project repository or live demo](#)
-![All Steps](https://github.com/OriBloch/OriBloch/assets/153440570/456e7d9d-de6d-4d82-beb3-fa4bd5a7a60c)
+- **Link:** ([Safe Journey](https://github.com/OriBloch/Safe-Journey))
+<img src="https://github.com/OriBloch/OriBloch/assets/153440570/456e7d9d-de6d-4d82-beb3-fa4bd5a7a60c" alt="All Steps" width="500">
+
 
 ## Connect with Me
 Let's connect and talk about algorithms, space & more: [LinkedIn](https://www.linkedin.com/in/ori-bloch-312768207/).
