@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Busin
 
 ### Project 2: Aircraft Intelligence Hub![Aircraft Intelligence Hub Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/cc056cfe-986a-4d22-847f-6b58e6a6488a)
 - **Platform:**([Platform Link](https://aircraft-intelligence.streamlit.app/))
-- **Demonstration Video:** ([Demonstration Link]()) 
+- **Demonstration Video:** ([Demonstration Link](https://www.youtube.com/watch?v=dmmnimuSTV0)) 
 - **Description:** Elevating Satellite Imagery Analysis with Advanced Aircraft and Airport AI & Data Analysis
 - **Technologies Used:** Written in Python; libraries used: YOLOv8, OpenCV, SQLite and more
 - **Role:** Full Ownership - Full-stack development - a personal project by me
