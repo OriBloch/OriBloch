@@ -3,7 +3,7 @@
   <h2>🚀 Space Business Development  | 🧠 Algorithm Developer | ⚡ Electrical Engineering Student</h2>
 </div>
 
-Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Business Development, currently leveraging over 6 years of expertise in remote sensing with a focus on Earth Observation satellites. I am deeply passionate about the intersection of technology, space, and engineering. Currently, I am employed by a leading Israeli company and pursuing studies at the Technion Institute of Technology in the Electrical Engineering faculty.
+Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Business Development, currently leveraging over 7 years of expertise in remote sensing with a focus on Earth Observation satellites. I am deeply passionate about the intersection of technology, space, and engineering. Currently, I am employed by a leading Israeli company and pursuing studies at the Technion Institute of Technology in the Electrical Engineering faculty.
 
 ## Professional Highlights
 
