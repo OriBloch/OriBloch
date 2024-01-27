@@ -44,10 +44,11 @@ Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Busin
 - **Technologies Used:** Written in Python; libraries used: YOLOv8, OpenCV, SQLite and more
 - **Role:** Full Ownership - Full-stack development - a personal project by me
 - **Github Link:** ([Aircraft Intelligence Hub](https://github.com/OriBloch/Aircraft-Intelligence-Hub))
-<img src="![Aircraft Intelligence Hub linkedin Post](https://github.com/OriBloch/OriBloch/assets/153440570/d430cf5b-013c-481a-8f07-08c7b90196e6)" alt="All Graphs" width="500">
+<img src="https://github.com/OriBloch/OriBloch/assets/153440570/f2226904-a6dc-42c3-a0fa-d8d246099e9b" alt="All Graphs" width="500">
 
 ## Connect with Me
 Let's connect and talk about algorithms, space & more: [LinkedIn](https://www.linkedin.com/in/ori-bloch-312768207/).
+
 
 
 ## Future Goals
