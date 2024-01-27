@@ -37,14 +37,14 @@ Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Busin
 
 ###
 
-### Project 2: Aircraft Intelligence Hub![Aircraft Intelligence Hub Badge Small](![Aircraft Intelligence Hub Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/cc056cfe-986a-4d22-847f-6b58e6a6488a)
+### Project 2: Aircraft Intelligence Hub![Aircraft Intelligence Hub Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/cc056cfe-986a-4d22-847f-6b58e6a6488a)
 - **Platform:**([Platform Link](https://aircraft-intelligence.streamlit.app/))
 - **Demonstration Video:** ([Demonstration Link]()) 
 - **Description:** Elevating Satellite Imagery Analysis with Advanced Aircraft and Airport AI & Data Analysis
 - **Technologies Used:** Written in Python; libraries used: YOLOv8, OpenCV, SQLite and more
 - **Role:** Full Ownership - Full-stack development - a personal project by me
 - **Github Link:** ([Aircraft Intelligence Hub](https://github.com/OriBloch/Aircraft-Intelligence-Hub))
-<img src="![Aircraft Intelligence Hub linkedin Post](https://github.com/OriBloch/OriBloch/assets/153440570/d430cf5b-013c-481a-8f07-08c7b90196e6)" alt="All Steps" width="500">
+<img src="![Aircraft Intelligence Hub linkedin Post](https://github.com/OriBloch/OriBloch/assets/153440570/d430cf5b-013c-481a-8f07-08c7b90196e6)" alt="All Graphs" width="500">
 
 ## Connect with Me
 Let's connect and talk about algorithms, space & more: [LinkedIn](https://www.linkedin.com/in/ori-bloch-312768207/).
