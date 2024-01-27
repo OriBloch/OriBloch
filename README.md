@@ -28,13 +28,23 @@ Welcome to my GitHub profile! I am Ori Bloch, an experienced Space Systems Busin
 
 ## Personal Projects
 
-### Project 1: [Safe Journey] ![Safe Journey Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/1bb41875-fa75-4ab3-922e-f004b8153e99)
+### Project 1: Safe Journey ![Safe Journey Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/1bb41875-fa75-4ab3-922e-f004b8153e99)
 - **Description:** Precision routing for maximum safety, leveraging advanced algorithms to determine the most secure path for users
 - **Technologies Used:** Written in Python; libraries used: googlemaps, folium, geopy, and more
-- **Role:** Full-stack development - personal project by me
-- **Link:** ([Safe Journey](https://github.com/OriBloch/Safe-Journey))
+- **Role:** Full Ownership - Full-stack development - a personal project by me
+- **Github Link:** ([Safe Journey](https://github.com/OriBloch/Safe-Journey))
 <img src="https://github.com/OriBloch/OriBloch/assets/153440570/456e7d9d-de6d-4d82-beb3-fa4bd5a7a60c" alt="All Steps" width="500">
 
+###
+
+### Project 2: Aircraft Intelligence Hub![Aircraft Intelligence Hub Badge Small](![Aircraft Intelligence Hub Badge Small](https://github.com/OriBloch/OriBloch/assets/153440570/cc056cfe-986a-4d22-847f-6b58e6a6488a)
+- **Platform:**([Platform Link](https://aircraft-intelligence.streamlit.app/))
+- **Demonstration Video:** ([Demonstration Link]()) 
+- **Description:** Elevating Satellite Imagery Analysis with Advanced Aircraft and Airport AI & Data Analysis
+- **Technologies Used:** Written in Python; libraries used: YOLOv8, OpenCV, SQLite and more
+- **Role:** Full Ownership - Full-stack development - a personal project by me
+- **Github Link:** ([Aircraft Intelligence Hub](https://github.com/OriBloch/Aircraft-Intelligence-Hub))
+<img src="![Aircraft Intelligence Hub linkedin Post](https://github.com/OriBloch/OriBloch/assets/153440570/d430cf5b-013c-481a-8f07-08c7b90196e6)" alt="All Steps" width="500">
 
 ## Connect with Me
 Let's connect and talk about algorithms, space & more: [LinkedIn](https://www.linkedin.com/in/ori-bloch-312768207/).
